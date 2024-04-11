@@ -1,3 +1,3 @@
-# PD_Events Parser
+# PagerDuty Events Parser
 
 #Setup
