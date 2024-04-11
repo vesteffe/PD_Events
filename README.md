@@ -7,9 +7,9 @@ Run in node
 download the csv file containing PagerDuty Events locally
 
 # Install dependencies
--- Install node https://nodejs.org/en/learn/getting-started/how-to-install-nodejs locally on you comptuter
--- npm install csv-parser
--- npm install json2csv
+* Install node https://nodejs.org/en/learn/getting-started/how-to-install-nodejs locally on you comptuter
+* npm install csv-parser
+* npm install json2csv
 
 # Run the script
 node pdEventsParser3.js <csv-file>
