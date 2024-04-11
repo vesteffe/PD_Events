@@ -64,7 +64,7 @@ function writeJsonToCsv(jsonData, csvFilePath) {
         console.error('Error writing to CSV:', error);
     }
 }
-// Main
+// Main proc
 csvToJson(csvFilePath)
     .then((jsonData) => {
         extractSubstring2AndUpdate(jsonData);
